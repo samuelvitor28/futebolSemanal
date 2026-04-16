@@ -14,3 +14,6 @@ Sistema desenvolvido para auxiliar na organização e gestão de um grupo de fut
 - 👥 Gerenciamento de participantes
 - 📅 Organização de jogos e atividades
 
+## Regras
+X Proibido IA
+
