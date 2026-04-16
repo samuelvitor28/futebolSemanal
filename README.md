@@ -1,5 +1,5 @@
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![CakePHP](https://img.shields.io/badge/CakePHP-4.x-D33C43?style=for-the-badge&logo=cakephp&logoColor=white)
+![CakePHP](https://img.shields.io/badge/CakePHP-D33C43?logo=cakephp&logoColor=white)
 
 # Futebol Semanal
 
